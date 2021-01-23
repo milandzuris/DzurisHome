@@ -1,4 +1,4 @@
-![](https://pbs.twimg.com/profile_banners/1281659403117240323/1611382620/1500x500)
+![](https://github.com/milandzuris/DzurisHome/blob/main/1.1.jpg)
 ### Dzuriš Home
 
 ### Connect with Dzuriš Home:
