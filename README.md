@@ -11,6 +11,8 @@ Dzuriš Home on Home Assistant
 
 <br />
 
+---
+
 </details>
 
 [website]: 
