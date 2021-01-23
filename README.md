@@ -20,4 +20,4 @@ Dzuriš Home on Home Assistant
 
 [twitter]: https://twitter.com/DzurisHome/
 [instagram]: https://www.instagram.com/dzurishome/
-[discord]: https://discord.gg/wpg5aAx/
+[discord]: https://discord.gg/tVKdCKURk5/
