@@ -1,6 +1,4 @@
-# DzurisHome
-Dzuriš Home on Home Assistant
-
+### Dzuriš Home
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 - Dzuriš Company
