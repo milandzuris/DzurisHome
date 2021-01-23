@@ -1,5 +1,5 @@
 ### Dzuriš Home
-(https://pbs.twimg.com/profile_banners/1281659403117240323/1611382620/1500x500)
+!(https://pbs.twimg.com/profile_banners/1281659403117240323/1611382620/1500x500)
 
 - Dzuriš Company
 - Dzuriš Home
