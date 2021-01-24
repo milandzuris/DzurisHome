@@ -1,4 +1,4 @@
-![](https://github.com/milandzuris/DzurisHome/blob/main/iPhone%2012%20Blue%20Blue%200.2.jpg)
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.1.jpg)
 # Dzuriš Home
 
 ## Connect with Dzuriš Home:
