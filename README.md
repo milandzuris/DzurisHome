@@ -1,4 +1,4 @@
-![](https://github.com/milandzuris/DzurisHome/blob/main/0.3.jpg)
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.2.jpg)
 # Dzuriš Home
 
 ## Connect with Dzuriš Home:
