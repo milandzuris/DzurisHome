@@ -10,6 +10,12 @@ This is my Home Assistant config
 
 ![](https://github.com/milandzuris/DzurisHome/blob/main/0.1.jpg)
 
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.10.jpg)
+
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.9.jpg)
+
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.13.jpg)
+
 ---
 
 MIT License
