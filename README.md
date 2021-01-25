@@ -1,4 +1,4 @@
-![](https://github.com/milandzuris/DzurisHome/blob/main/0.1.jpg)
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.3.jpg)
 # Dzuriš Home
 
 ## Connect with Dzuriš Home:
@@ -7,6 +7,8 @@
 
 ## About
 This is my Home Assistant config
+
+![](https://github.com/milandzuris/DzurisHome/blob/main/0.1.jpg)
 
 ---
 
